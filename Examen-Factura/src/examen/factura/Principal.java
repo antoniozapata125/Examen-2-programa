@@ -7,7 +7,8 @@ package examen.factura;
 
 /* Nombre                Carné
  * Emmanuel Antonio    2000196
- * Bryan Sandoval      2000137
+ * Bryan Sandoval      20001371
+
  * 
  */
 import java.util.ArrayList;
